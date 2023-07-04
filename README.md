@@ -1,7 +1,11 @@
 👋 Hi, I’m Ashok
+
 💙 I love coding and more so in python
-👀 I’m interested in developing web apps for solving practical problems...  
-🌱 I’m currently learning machine learning and web technologies...  
+
+👀 I’m interested in developing web apps for solving practical problems...
+
+🌱 I’m currently learning machine learning and web technologies...
+
 📫 Reach me through my mail ashokgwork@gmail.com
 
 <!---
